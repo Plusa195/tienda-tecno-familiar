@@ -2,9 +2,7 @@
 
 Este es un proyecto de portafolio que simula una tienda e-commerce para la venta de computadores y componentes tecnológicos. El sitio es completamente estático, construido para demostrar habilidades sólidas en desarrollo front-end.
 
-**Ver el sitio en vivo:** [https://tu-usuario.github.io/tienda-tecno-familiar/](https://tu-usuario.github.io/tienda-tecno-familiar/)
-*(Recuerda reemplazar el enlace con tu URL de GitHub Pages)*
-
+**Ver el sitio en vivo:** [https://github.com/Plusa195/tienda-tecno-familiar)
 ---
 
 ## Características Principales
